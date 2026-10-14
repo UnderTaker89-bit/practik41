@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "uiRdyZkQmQ8=",
+  "success": true,
+  "projectFilePath": "C:\\proekt\\navchana\\komponentu\\39\\PostService.DataAccess\\PostService.DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Юра\\.nuget\\packages\\microsoft.data.sqlite\\10.0.12\\microsoft.data.sqlite.10.0.12.nupkg.sha512",
+    "C:\\Users\\Юра\\.nuget\\packages\\microsoft.data.sqlite.core\\10.0.12\\microsoft.data.sqlite.core.10.0.12.nupkg.sha512",
+    "C:\\Users\\Юра\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.12\\sqlitepclraw.bundle_e_sqlite3.2.1.12.nupkg.sha512",
+    "C:\\Users\\Юра\\.nuget\\packages\\sqlitepclraw.core\\2.1.12\\sqlitepclraw.core.2.1.12.nupkg.sha512",
+    "C:\\Users\\Юра\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.12\\sqlitepclraw.lib.e_sqlite3.2.1.12.nupkg.sha512",
+    "C:\\Users\\Юра\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.12\\sqlitepclraw.provider.e_sqlite3.2.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

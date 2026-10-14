@@ -1,0 +1,15 @@
+C:\proekt\navchana\komponentu\39\PostService.Dtos\bin\Debug\net10.0\PostService.Dtos.deps.json
+C:\proekt\navchana\komponentu\39\PostService.Dtos\bin\Debug\net10.0\PostService.Dtos.dll
+C:\proekt\navchana\komponentu\39\PostService.Dtos\bin\Debug\net10.0\PostService.Dtos.pdb
+C:\proekt\navchana\komponentu\39\PostService.Dtos\bin\Debug\net10.0\PostService.CommonTypes.dll
+C:\proekt\navchana\komponentu\39\PostService.Dtos\bin\Debug\net10.0\PostService.CommonTypes.pdb
+C:\proekt\navchana\komponentu\39\PostService.Dtos\obj\Debug\net10.0\PostService.Dtos.csproj.AssemblyReference.cache
+C:\proekt\navchana\komponentu\39\PostService.Dtos\obj\Debug\net10.0\PostService.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\proekt\navchana\komponentu\39\PostService.Dtos\obj\Debug\net10.0\PostService.Dtos.AssemblyInfoInputs.cache
+C:\proekt\navchana\komponentu\39\PostService.Dtos\obj\Debug\net10.0\PostService.Dtos.AssemblyInfo.cs
+C:\proekt\navchana\komponentu\39\PostService.Dtos\obj\Debug\net10.0\PostService.Dtos.csproj.CoreCompileInputs.cache
+C:\proekt\navchana\komponentu\39\PostService.Dtos\obj\Debug\net10.0\PostServ.777E8750.Up2Date
+C:\proekt\navchana\komponentu\39\PostService.Dtos\obj\Debug\net10.0\PostService.Dtos.dll
+C:\proekt\navchana\komponentu\39\PostService.Dtos\obj\Debug\net10.0\refint\PostService.Dtos.dll
+C:\proekt\navchana\komponentu\39\PostService.Dtos\obj\Debug\net10.0\PostService.Dtos.pdb
+C:\proekt\navchana\komponentu\39\PostService.Dtos\obj\Debug\net10.0\ref\PostService.Dtos.dll

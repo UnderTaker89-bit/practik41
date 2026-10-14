@@ -1,0 +1,11 @@
+C:\proekt\navchana\komponentu\39\PostService.CommonTypes\bin\Debug\net10.0\PostService.CommonTypes.deps.json
+C:\proekt\navchana\komponentu\39\PostService.CommonTypes\bin\Debug\net10.0\PostService.CommonTypes.dll
+C:\proekt\navchana\komponentu\39\PostService.CommonTypes\bin\Debug\net10.0\PostService.CommonTypes.pdb
+C:\proekt\navchana\komponentu\39\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\proekt\navchana\komponentu\39\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.AssemblyInfoInputs.cache
+C:\proekt\navchana\komponentu\39\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.AssemblyInfo.cs
+C:\proekt\navchana\komponentu\39\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.csproj.CoreCompileInputs.cache
+C:\proekt\navchana\komponentu\39\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.dll
+C:\proekt\navchana\komponentu\39\PostService.CommonTypes\obj\Debug\net10.0\refint\PostService.CommonTypes.dll
+C:\proekt\navchana\komponentu\39\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.pdb
+C:\proekt\navchana\komponentu\39\PostService.CommonTypes\obj\Debug\net10.0\ref\PostService.CommonTypes.dll

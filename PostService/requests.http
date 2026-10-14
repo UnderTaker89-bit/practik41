@@ -1,0 +1,56 @@
+GET http://localhost:5055/postings
+
+###
+
+GET http://localhost:5055/postings/1
+
+###
+
+GET http://localhost:5055/postings/999
+
+###
+
+POST http://localhost:5055/postings
+Content-Type: application/json
+
+{
+  "from": "Ivan",
+  "to": "Olena",
+  "content": "Documents",
+  "deliveryType": 1,
+  "weight": 2.0,
+  "width": 20,
+  "height": 15,
+  "depth": 2,
+  "value": 100
+}
+
+###
+
+GET http://localhost:5055/postings/3
+
+###
+
+PUT http://localhost:5055/postings/1
+Content-Type: application/json
+
+{
+  "from": "Alice",
+  "to": "Bob",
+  "content": "Updated Books",
+  "deliveryType": 0,
+  "weight": 3.0,
+  "width": 30,
+  "height": 20,
+  "depth": 10,
+  "value": 50,
+  "price": 50
+}
+
+###
+
+DELETE http://localhost:5055/postings/1
+
+###
+
+GET http://localhost:5055/postings/1
