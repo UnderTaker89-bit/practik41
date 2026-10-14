@@ -5,6 +5,7 @@ C:\proekt\navchana\komponentu\39\PostService.CommonTypes\obj\Debug\net10.0\PostS
 C:\proekt\navchana\komponentu\39\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.AssemblyInfoInputs.cache
 C:\proekt\navchana\komponentu\39\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.AssemblyInfo.cs
 C:\proekt\navchana\komponentu\39\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.csproj.CoreCompileInputs.cache
+C:\proekt\navchana\komponentu\39\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.sourcelink.json
 C:\proekt\navchana\komponentu\39\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.dll
 C:\proekt\navchana\komponentu\39\PostService.CommonTypes\obj\Debug\net10.0\refint\PostService.CommonTypes.dll
 C:\proekt\navchana\komponentu\39\PostService.CommonTypes\obj\Debug\net10.0\PostService.CommonTypes.pdb

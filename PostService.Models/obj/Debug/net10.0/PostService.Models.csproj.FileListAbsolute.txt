@@ -8,6 +8,7 @@ C:\proekt\navchana\komponentu\39\PostService.Models\obj\Debug\net10.0\PostServic
 C:\proekt\navchana\komponentu\39\PostService.Models\obj\Debug\net10.0\PostService.Models.AssemblyInfoInputs.cache
 C:\proekt\navchana\komponentu\39\PostService.Models\obj\Debug\net10.0\PostService.Models.AssemblyInfo.cs
 C:\proekt\navchana\komponentu\39\PostService.Models\obj\Debug\net10.0\PostService.Models.csproj.CoreCompileInputs.cache
+C:\proekt\navchana\komponentu\39\PostService.Models\obj\Debug\net10.0\PostService.Models.sourcelink.json
 C:\proekt\navchana\komponentu\39\PostService.Models\obj\Debug\net10.0\PostServ.8DFD188A.Up2Date
 C:\proekt\navchana\komponentu\39\PostService.Models\obj\Debug\net10.0\PostService.Models.dll
 C:\proekt\navchana\komponentu\39\PostService.Models\obj\Debug\net10.0\refint\PostService.Models.dll

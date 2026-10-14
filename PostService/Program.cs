@@ -1,15 +1,26 @@
+using Microsoft.EntityFrameworkCore;
 using PostService.BusinessLogic;
+using PostService.DataAccess;
 using PostService.Dtos;
 using PostService.Mappings;
 
 var builder = WebApplication.CreateBuilder(args);
+
 builder.WebHost.UseUrls("http://localhost:5055");
 
+builder.Services.AddDbContext<PostingDbContext>();
+builder.Services.AddScoped<IPostingRepository, PostingRepository>();
 builder.Services.AddScoped<IPostingService, PostingService>();
 
 var app = builder.Build();
 
-app.MapGet("/", () => "Сервер запущений і готовий обробляти запити.");
+using (var scope = app.Services.CreateScope())
+{
+    var dbContext = scope.ServiceProvider.GetRequiredService<PostingDbContext>();
+    dbContext.Database.EnsureCreated();
+}
+
+app.MapGet("/", () => "Hello World!");
 
 app.MapGet("/postings", (IPostingService service) =>
 {

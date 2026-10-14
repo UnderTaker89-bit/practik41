@@ -5,9 +5,9 @@ namespace PostService.Dtos;
 public class PostingGetDto
 {
     public int Id { get; set; }
-    public string From { get; set; } = string.Empty;
-    public string To { get; set; } = string.Empty;
-    public string Content { get; set; } = string.Empty;
+    public string From { get; set; } = null!;
+    public string To { get; set; } = null!;
+    public string Content { get; set; } = null!;
     public DeliveryType DeliveryType { get; set; }
     public float Weight { get; set; }
     public float Width { get; set; }

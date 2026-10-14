@@ -5,6 +5,25 @@ namespace PostService.Mappings;
 
 public static class PostingMapper
 {
+    public static PostingGetDto ToPostingGetDto(Posting model)
+    {
+        return new PostingGetDto
+        {
+            Id = model.Id,
+            From = model.From,
+            To = model.To,
+            Content = model.Content,
+            DeliveryType = model.DeliveryType,
+            Weight = model.Weight,
+            Width = model.Width,
+            Height = model.Height,
+            Depth = model.Depth,
+            Value = model.Value,
+            Price = model.Price,
+            CreatedAt = model.CreatedAt
+        };
+    }
+
     public static Posting ToPosting(PostingPostDto dto)
     {
         return new Posting
@@ -17,7 +36,9 @@ public static class PostingMapper
             Width = dto.Width,
             Height = dto.Height,
             Depth = dto.Depth,
-            Value = dto.Value
+            Value = dto.Value,
+            Price = dto.Price,
+            CreatedAt = DateTime.UtcNow
         };
     }
 
@@ -35,26 +56,8 @@ public static class PostingMapper
             Height = dto.Height,
             Depth = dto.Depth,
             Value = dto.Value,
-            Price = dto.Price
-        };
-    }
-
-    public static PostingGetDto ToPostingGetDto(Posting posting)
-    {
-        return new PostingGetDto
-        {
-            Id = posting.Id,
-            From = posting.From,
-            To = posting.To,
-            Content = posting.Content,
-            DeliveryType = posting.DeliveryType,
-            Weight = posting.Weight,
-            Width = posting.Width,
-            Height = posting.Height,
-            Depth = posting.Depth,
-            Value = posting.Value,
-            Price = posting.Price,
-            CreatedAt = posting.CreatedAt
+            Price = dto.Price,
+            CreatedAt = dto.CreatedAt
         };
     }
 }

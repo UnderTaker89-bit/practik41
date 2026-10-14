@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PostService.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8f146b23370eeba90039bdc12e565b08bd32a78")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cb82317f08203940c344125631150a04ad348c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("PostService.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PostService.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
